@@ -1,0 +1,40 @@
+div.watch {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 20rem;
+  width: 50.5rem;
+  border-radius: 0.3rem;
+  box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.5);
+}
+
+div.watch > div {
+  height: 17rem;
+  width: 15rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: var(--text-color);
+  background-color: rgba(5, 5, 5, 0.9);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7);
+  border-radius: 0.7rem;
+  letter-spacing: 0.3rem;
+}
+
+div.watch span {
+  font-weight: bolder;
+  font-size: 6rem;
+}
+
+div.watch div:nth-child(1) span.time {
+  font-size: 1rem;
+}
+
+div.watch div:nth-child(2) span.minutes {
+  font-size: 1rem;
+}
+
+div.watch div:last-child span.seconds {
+  font-size: 1rem;
+}
