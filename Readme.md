@@ -11,3 +11,5 @@ Neste projeto desenvolvi um rélogio Digital, o objetivo deste projeto é fazer 
 - HTML
 - CSS
 - Javascript
+
+<a href="https://thunderous-rugelach-cb68b5.netlify.app">Clique no link para poder visualizar o projeto</a>
