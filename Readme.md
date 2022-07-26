@@ -4,7 +4,7 @@
 
 # Sobre o Projeto
 
-Neste projeto desenvolvi um rélogio Digital para colocar a lógica de programação em prática.
+Neste projeto desenvolvi um rélogio Digital, o objetivo deste projeto é fazer a hora, minutos e segundos passar em tempo real.
 
 ## Tecnologias usadas 🚀
 
